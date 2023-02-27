@@ -5,7 +5,6 @@
 
 nav {
     width: 100%;
-    /* display: flex; */
     justify-content: space-between;
     background: url(./img/background.png);
     background-repeat: no-repeat;
@@ -62,7 +61,7 @@ span {
 
 .siuuuu {
     margin-top: 40px;
-    margin-left: 45%;
+    margin-left: 43%;
     font-weight: 400;
     font-size: 18px;
     line-height: 28px;
@@ -100,7 +99,6 @@ header .col-12 .col-4 p {
     list-style: none;
     font-size: 18px;
     line-height: 28px;
-    /* text-align: center; */
     color: #333333;
 }
 
@@ -114,7 +112,6 @@ header .col-12 .col-4 p {
     margin-top: 35px;
     font-size: 20px;
     line-height: 33px;
-    /* text-align: center; */
     color: #333333;
 }
 
@@ -123,7 +120,6 @@ header .col-12 .col-4 li {
     list-style: none;
     font-size: 18px;
     line-height: 28px;
-    /* text-align: center; */
     color: #333333;
 }
 
@@ -170,11 +166,10 @@ header .col-12 .col-4 li {
     font-size: 20px;
     line-height: 33px;
     color: #FFFFFF;
-    /* margin-left: 100px; */
-
+    margin-left: 100px;
 }
 
-.col-12{
+.col-12 {
     justify-content: space-between;
     margin-bottom: 50px;
 }
@@ -187,7 +182,7 @@ header .col-12 .col-4 li {
     font-size: 20px;
     line-height: 33px;
     color: #FFFFFF;
-    /* margin-left: 100px; */
+    margin-left: 100px;
 }
 
 .loptop .col-6 p {
@@ -198,7 +193,7 @@ header .col-12 .col-4 li {
     font-size: 20px;
     line-height: 33px;
     color: #FFFFFF;
-    /* margin-left: 100px; */
+    margin-left: 100px;
 }
 
 .loptop .col-6 button {
@@ -212,7 +207,7 @@ header .col-12 .col-4 li {
     background-color: #28A745;
     border-radius: 0px;
     border: none;
-    /* margin-left: 100px; */
+    margin-left: 100px;
 }
 
 .loptop .col-5 img {
@@ -309,8 +304,10 @@ header .col-12 .col-4 li {
 }
 
 .loptop2 img {
-    margin-left: 629px;
-    margin-top: -350px;
+    width: 660px;
+    height: 517px;
+    margin-left: 460px;
+    margin-top: -520px;
 }
 
 .sc h3 {
@@ -348,6 +345,7 @@ header .col-12 .col-4 li {
 
 .sc.col-4 img {
     width: 100%;
+    margin-top: 20px;
 }
 
 .sc .col-4 h2 {
@@ -375,8 +373,27 @@ header .col-12 .col-4 li {
     margin-top: 100px;
 }
 
+.img{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-left: -10px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.img2{
+    display: flex;
+    margin-left: -10px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
 .sc .col-3 {
     width: 100%;
+}
+
+.sc {
+    margin-top: 20px;
 }
 
 .icon_div {
@@ -384,7 +401,7 @@ header .col-12 .col-4 li {
     border-radius: 33.5px;
     width: 67px;
     height: 67px;
-    margin-left: 180px;
+    margin-left: 150px;
 }
 
 .iconlar {
@@ -422,7 +439,7 @@ header {
 }
 
 .katta_div {
-    margin-left: 170px;
+    margin-left: 220px;
     margin-top: 50px;
 }
 
